@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/express": "^4.17.15",
+    "@types/node": "^18.11.18",
+    "script": "^0.1.4",
+    "ts-node-dev": "^2.0.0",
+    "type": "^2.7.2",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
